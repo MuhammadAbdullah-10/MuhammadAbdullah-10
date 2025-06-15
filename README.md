@@ -66,23 +66,6 @@ Computer Science student skilled in Python, C++, FastAPI, MySQL, MongoDB, Docker
 - Oversaw budgeting and financial tracking.
 
 ---
-
-## 🚀 Projects
-
-- **E-commerce Order Processing System:**  
-  Developed a Product Service microservice using Python FastAPI, MongoDB, and Docker; integrated with HTML/CSS frontend.
-
-- **Super Store Sales Dashboard:**  
-  Built a Power BI dashboard for sales analysis and forecasting with a 15-day forecast.
-
-- **Hospital Management System:**  
-  Web-based system using HTML, CSS, JavaScript, and MySQL.
-
-- **Hotel Management System:**  
-  C++ terminal-based project.
-
----
-
 ## 🎓 Education
 
 **BS Computer Science**  
