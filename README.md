@@ -1,6 +1,6 @@
 # Muhammad Abdullah
 
-**Location:** Gujrat District, Punjab, Pakistan  
+**Location:** Pakistan  
 **Contact:** +923277408391 | muhammad.abdullah.warraich95@gmail.com  
 **LinkedIn:** [linkedin.com/in/muhammadabdullah2004](https://www.linkedin.com/in/muhammadabdullah2004)
 
