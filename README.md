@@ -1,14 +1,14 @@
 # Muhammad Abdullah
 
 **Location:** Pakistan  
-**Contact:** +923277408391 | muhammad.abdullah.warraich95@gmail.com  
+**Contact:** +923338453766 | muhammad.abdullah.warraich95@gmail.com  
 **LinkedIn:** [linkedin.com/in/muhammadabdullah2004](https://www.linkedin.com/in/muhammadabdullah2004)
 
 ---
 
 ## 👋 About Me
 
-Computer Science student skilled in Python, C++, FastAPI, MySQL, MongoDB, Docker, and Power BI. Experienced in web development, database management, and operating systems. Currently pursuing a BS in Computer Science (expected 2026) at FAST NUCES. Strong problem-solver seeking software development roles.
+Computer Science student skilled in Python, C++, FastAPI, MySQL, MongoDB, Docker, and Power BI. Experienced in web development, database management, and operating systems. Currently pursuing a BS in Computer Science (expected 2026) at FAST NUCES. Strong problem-solver.
 
 ---
 
@@ -71,7 +71,7 @@ Computer Science student skilled in Python, C++, FastAPI, MySQL, MongoDB, Docker
 **BS Computer Science**  
 FAST National University of Computer and Emerging Sciences  
 *August 2022 – Expected 2026*  
-CGPA: 3.37/4.00 (Dean’s List of Honors - Spring 2023)
+CGPA: 3.4/4.00
 
 ---
 
