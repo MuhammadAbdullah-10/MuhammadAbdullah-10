@@ -61,9 +61,14 @@ Computer Science student skilled in Python, C++, FastAPI, MySQL, MongoDB, Docker
 *February 2025 – Present | Peshawar, Pakistan*  
 - Led web projects using HTML, CSS, and JavaScript.
 
-**Treasurer, Takhleeq FAST-NUCES**  
-*February 2025 – Present | Peshawar, Pakistan*  
+**General Secretary, Takhleeq FAST-NUCES**  
+*Treasurer *February 2025 – January 2026 | Peshawar, Pakistan*  
 - Oversaw budgeting and financial tracking.
+
+**Teaching Assistant**
+*Network Security January 2025 – Present | FAST-Nu*
+*Information Security January 2025 – Present | FAST-Nu*
+*Discrete Structures August 2025 – December 2025 | FAST-Nu*
 
 ---
 ## 🎓 Education
