@@ -75,7 +75,7 @@ Computer Science student skilled in Python, C++, FastAPI, MySQL, MongoDB, Docker
 
 **BS Computer Science**  
 FAST National University of Computer and Emerging Sciences  
-*August 2022 – Expected 2026*  
+*August 2022 – Expected June 2026*  
 CGPA: 3.4/4.00
 
 ---
