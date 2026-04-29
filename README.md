@@ -15,32 +15,24 @@ Computer Science student skilled in Python, C++, FastAPI, MySQL, MongoDB, Docker
 ## 🛠️ Skills
 
 <p align="left">
-  <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-
-  <!-- Web Development -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-
-  <!-- Database -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-
-  <!-- Tools & Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-  <!-- Power BI does not have a Devicon icon, so you may add a custom image if you wish -->
 </p>
 
 - **Web Development:** HTML, CSS, JavaScript, PHP, Git, GitHub
 - **Database Management:** MySQL, MongoDB, XAMPP, WAMP, MySQL Workbench
-- **Programming Languages:** Python, C++, Google Carbon, .NET C#
+- **Programming Languages:** Python, C++, Google Carbon, .NET C#, Java
 - **Libraries & Tools:** Pandas, Numpy, scikit-learn, Matplotlib, Seaborn
 - **Data Science:** Power BI, Machine Learning
 - **Microservices:** FastAPI, Docker
